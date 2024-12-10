@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timti\\IG4\\Projet\\Appel du vide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0461AE69-1539-A362-FE03-5B4D95D3D14B}|Assembly-CSharp.csproj|c:\\users\\timti\\ig4\\projet\\appel du vide\\assets\\fpc\\scripts\\components\\crouch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0461AE69-1539-A362-FE03-5B4D95D3D14B}|Assembly-CSharp.csproj|solutionrelative:assets\\fpc\\scripts\\components\\crouch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0461AE69-1539-A362-FE03-5B4D95D3D14B}|Assembly-CSharp.csproj|c:\\users\\timti\\ig4\\projet\\appel du vide\\assets\\fpc\\scripts\\firstpersonmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0461AE69-1539-A362-FE03-5B4D95D3D14B}|Assembly-CSharp.csproj|solutionrelative:assets\\fpc\\scripts\\firstpersonmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0461AE69-1539-A362-FE03-5B4D95D3D14B}|Assembly-CSharp.csproj|c:\\users\\timti\\ig4\\projet\\appel du vide\\assets\\fpc\\scripts\\components\\firstpersonaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0461AE69-1539-A362-FE03-5B4D95D3D14B}|Assembly-CSharp.csproj|solutionrelative:assets\\fpc\\scripts\\components\\firstpersonaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirstPersonAudio.cs",
+              "DocumentMoniker": "C:\\Users\\timti\\IG4\\Projet\\Appel du vide\\Assets\\FPC\\Scripts\\Components\\FirstPersonAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\FPC\\Scripts\\Components\\FirstPersonAudio.cs",
+              "ToolTip": "C:\\Users\\timti\\IG4\\Projet\\Appel du vide\\Assets\\FPC\\Scripts\\Components\\FirstPersonAudio.cs",
+              "RelativeToolTip": "Assets\\FPC\\Scripts\\Components\\FirstPersonAudio.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAA/wEoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:17:14.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Crouch.cs",
+              "DocumentMoniker": "C:\\Users\\timti\\IG4\\Projet\\Appel du vide\\Assets\\FPC\\Scripts\\Components\\Crouch.cs",
+              "RelativeDocumentMoniker": "Assets\\FPC\\Scripts\\Components\\Crouch.cs",
+              "ToolTip": "C:\\Users\\timti\\IG4\\Projet\\Appel du vide\\Assets\\FPC\\Scripts\\Components\\Crouch.cs",
+              "RelativeToolTip": "Assets\\FPC\\Scripts\\Components\\Crouch.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAgwIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:20:17.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstPersonMovement.cs",
+              "DocumentMoniker": "C:\\Users\\timti\\IG4\\Projet\\Appel du vide\\Assets\\FPC\\Scripts\\FirstPersonMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\FPC\\Scripts\\FirstPersonMovement.cs",
+              "ToolTip": "C:\\Users\\timti\\IG4\\Projet\\Appel du vide\\Assets\\FPC\\Scripts\\FirstPersonMovement.cs",
+              "RelativeToolTip": "Assets\\FPC\\Scripts\\FirstPersonMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:11:55.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
